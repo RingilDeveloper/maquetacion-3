@@ -20,6 +20,7 @@ body{
   grid-column: 1/6;
   background: rgb(89, 226, 159);
   color:black;
+  margin-bottom: 10px;
 }
 #menu ul{
   display: grid;
